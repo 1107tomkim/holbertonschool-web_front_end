@@ -38,3 +38,7 @@ h6 {
 html {
 	scroll-behavior: smooth;
 }
+
+.visually-hidden {
+	display: none;
+}
